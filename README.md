@@ -8,6 +8,10 @@ Made this to make trial and error in setting some configuration more automated
 $ sudo apt install device-tree-compiler build-essentail fbi
 ```
 
+```
+apt-get install kconfig-frontends
+```
+
 ## Build 
 - First step check phandle value for gpio. Modify the dts file of your target driver accordingly.
 - Also configure the lcd configuration in the dts file. Ie. width,height etc.
