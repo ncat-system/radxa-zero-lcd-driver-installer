@@ -5,7 +5,7 @@ Made this to make trial and error in setting some configuration more automated
 
 ## Install dependencies:
 ```
-$ sudo apt install device-tree-compiler build-essentail fbi
+$ sudo apt install device-tree-compiler build-essential fbi
 ```
 
 ```
